@@ -1,0 +1,14 @@
+.DS_Store
+/.idea/
+/.oca/
+
+**/*.rpm
+**/*.jar
+**/*.bin
+*.patch
+env.sh
+labs/.DS_Store
+oci-iot-platform-getting-started/VALIDATION-RESULT.md
+oci-iot-gateway-config/VALIDATION-RESULT.md
+.vscode
+apps-ai-experience-agentic-ai/README.md
